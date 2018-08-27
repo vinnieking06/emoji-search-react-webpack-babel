@@ -48,6 +48,10 @@ Then, launch the boilerplate app.
 $ npm start
 ```
 
+To create production bundle.js file:
+
+run $ npm run build
+
 Now you should see a new browser window/tab opening and a title of "Hello World" in http://127.0.0.1:8080.
 
 Last, You need update `package.json` and modify fields like `name`, `version`, `description`, `keywords`, `author`, `license` and so on to fit your project.
